@@ -5,14 +5,3 @@
   justify-content: center;
 }
 
-.filter-button button {
-  padding: 8px 14px;
-  font-size: 0.9rem;
-  border-radius: 4px;
-  background-color: #046bd8;
-  color: white;
-}
-
-.filter-button button:hover {
-  background-color: #0056b3;
-}
