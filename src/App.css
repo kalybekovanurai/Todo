@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Roboto, sans-serif;
+  background-color: #f0f2f5;
+  color: #373535;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 2rem;
+  color: #373535;
+}

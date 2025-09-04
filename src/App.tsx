@@ -1,7 +1,12 @@
 import "./App.css";
+import TodoApp from "./components/TodoApp";
 
 const App = () => {
-  return <h1>App</h1>;
+  return (
+    <h1>
+      <TodoApp />
+    </h1>
+  );
 };
 
 export default App;
